@@ -1,0 +1,11 @@
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### Gradle ###
+# Exclude Folder List #
+.gradle/
+.lazybones/
+build/
